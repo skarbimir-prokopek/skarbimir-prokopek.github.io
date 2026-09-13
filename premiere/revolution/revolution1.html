@@ -3833,7 +3833,7 @@ vertical-align: -.125em;
 </style>
 <meta property="og:title" content="Qu’est-ce que le Tiers? Tout. – Sesquiplan">
 <meta property="og:description" content="De l’Assemblée à la Nation">
-<meta property="og:image" content="trois-ordres-caricature.jpg">
+<meta property="og:image" content="https://skarbimir-prokopek.github.io/premiere/revolution/trois-ordres-caricature.jpg">
 <meta property="og:site_name" content="Sesquiplan">
 <meta property="og:locale" content="fr">
 </head>
@@ -4317,7 +4317,7 @@ Une fois la nation entière entrée dans la révolution, une fois qu’elle s’
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/skarbimir-prokopek\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

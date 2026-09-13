@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Sesquiplan">
-<meta property="og:image" content="avatar1.jpg">
+<meta property="og:image" content="https://skarbimir-prokopek.github.io/avatar1.jpg">
 <meta property="og:site_name" content="Sesquiplan">
 <meta property="og:locale" content="fr">
 </head>
@@ -231,7 +231,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/skarbimir-prokopek\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
