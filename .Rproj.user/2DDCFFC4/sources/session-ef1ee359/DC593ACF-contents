@@ -1,0 +1,13 @@
+---
+title: "Première"
+subtitle: Cours et ressources pour la Première générale en tronc commun
+page-layout: article
+anchor-sections: false
+search: false
+listing:
+  id: premiere-links
+  contents: premiere.yml
+---
+
+::: {#premiere-links .column-screen-inset-right style="max-width: 850px;"}
+:::

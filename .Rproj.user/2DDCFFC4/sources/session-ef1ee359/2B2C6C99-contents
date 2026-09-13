@@ -1,0 +1,15 @@
+- title: Histoire
+  subtitle: Programme d'histoire en Première générale
+  links: 
+    - text: De la Révolution de février au Second empire (1848-1870)
+      href: quarante-huit/quarante_huit.qmd
+    - text: Évolutions socio-économiques de la France du Second empire
+      href: eco_soc_2empire/eco_soc_2empire.qmd
+    
+- title: Géographie
+  subtitle: Programme de géographie en Première générale
+  links: []
+  
+- title: EMC
+  subtitle: Programme d'EMC en Première
+  links: []

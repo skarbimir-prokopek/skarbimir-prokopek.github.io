@@ -1,0 +1,100 @@
+---
+title: "Périodisation - Activité 2"
+format: 
+  pdf:
+    keep-tex: true
+header-includes:
+  - \usepackage{multicol}
+---
+
+**Vous êtes éditeur d'un ouvrage historique sur le [xx]{.smallcaps}^e^ siècle. Utilisez la chronologie ci-dessous pour proposer un découpage des chapitres de votre ouvrage.**
+
+Le titre de mon ouvrage: '___________________________________'
+
+### Chronologie indicative du [xx]{.smallcaps}^e^ siècle:
+
+\begin{multicols}{2}
+
+1900 - Exposition universelle de Paris
+
+1903 - Premier vol des frères Wright
+
+1914 - Début de la Première Guerre mondiale
+
+1917 - Révolutions russes (fin du tsarisme, bolcheviks)
+
+1918 - Armistice de la Grande Guerre (11 nov.)
+
+1918 - Droit de vote des femmes au Royaume-Uni (+ de 30 ans)
+
+1922 - Mussolini au pouvoir en Italie (marche sur Rome)
+
+1927 - Lindbergh traverse l'Atlantique en solitaire
+
+1929 - Krach de Wall Street (Grande Dépression)
+
+1933 - Hitler au pouvoir en Allemagne
+
+1936 - Front populaire en France (réformes sociales)
+
+1939 - Début de la Seconde Guerre mondiale (invasion Pologne)
+
+1940 - Défaite française / Appel du 18 Juin (De Gaulle)
+
+1944 - Droit de vote des femmes en France (21 avril)
+
+1944 - Débarquement en Normandie (6 juin)
+
+1945 - Fin de la Seconde Guerre mondiale en Europe (8 mai)
+
+1945 - Bombes atomiques sur Hiroshima et Nagasaki
+
+1945 - Création de la Sécurité sociale en France
+
+1946 - Indépendance des Philippines (4 juil.)
+
+1946 - Premier ordinateur électronique (ENIAC)
+
+1947 - Indépendance de l'Inde et du Pakistan (15 août)
+
+1947 - Début de la guerre froide (blocs Est/Ouest)
+
+1948 - Indépendance de la Birmanie et Ceylan
+
+1949 - Indépendance de l'Indonésie
+
+1951 - Indépendance de la Libye
+
+1954 - Indépendance du Vietnam, Laos, Cambodge
+
+1956 - Indépendance du Soudan, Maroc, Tunisie
+
+1957 - Indépendance du Ghana
+
+1957 - Traité de Rome (CEE); Lancement de Spoutnik 1
+
+1958 - Indépendance de la Guinée
+
+1960 - Année des indépendances africaines (14 pays)
+
+1961 - Youri Gagarine, premier homme dans l'espace
+
+1962 - Indépendance de l'Algérie
+
+1969 - Premier homme sur la Lune (Armstrong)
+
+1969 - Premier vol du Concorde
+
+1970 - Premier rover lunaire téléguidé (Lunokhod 1)
+
+1973 - Droit à l'avortement autorisé aux États-Unis (Roe v. Wade)
+
+1975 - Loi Veil : légalisation de l'IVG en France
+
+1981 - Premier vol de la navette spatiale Columbia
+
+1989 - Chute du mur de Berlin
+
+1991 - Éclatement de l'URSS
+
+\end{multicols}

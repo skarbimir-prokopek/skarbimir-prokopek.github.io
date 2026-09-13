@@ -1,0 +1,19 @@
+---
+title: "Seconde"
+subtitle: Cours et ressources pour la Seconde en tronc commun
+page-layout: article
+anchor-sections: false
+search: false
+sidebar: seconde
+---
+
+::: {#premiere-links .column-screen-inset-right style="max-width: 850px;"}
+
+## Histoire
+
+[Mesurer et découper le temps: la périodisation en histoire](periodisation/periodisation.qmd)
+
+## Géographie
+
+## EMC
+:::

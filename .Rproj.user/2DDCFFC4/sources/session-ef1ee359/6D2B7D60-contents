@@ -1,0 +1,54 @@
+project:
+  type: website
+  
+website:
+  title: "Sesquiplan"
+  description: "Site pédagogique et personnel de Skarbimir Prokopek"
+  open-graph:
+    locale: fr
+  navbar:
+    right:
+      - href: index.qmd
+        text: Accueil
+      - href: seconde
+        text: "Seconde"
+      - href: premiere/index.qmd
+        text: "Première"
+      - href: hgssp
+        text: "HGSSP"
+      - href: blog.html
+        text: "Blog"
+        
+  sidebar: 
+    - id: seconde
+      collapse-level:  1
+      title: "Seconde"
+      contents:
+        - section: "Histoire 2e"
+        # href: 
+    
+    - id: premiere
+      title: "Première"
+      contents: 
+        - section: "Histoire 1ere"
+          contents: 
+            - text: "De la Révolution de février au Second empire (1848-1870)"
+              href: premiere/quarante-huit/quarante_huit.qmd
+            - text: "Économie et société de la France sous le Second empire"
+              href: premiere/eco_soc_2empire/eco_soc_2empire.qmd
+    
+    - id: hgssp
+      title: "HGSSP"
+      contents: 
+        - hgssp.qmd
+
+format:
+  html:
+    theme:
+      - sandstone
+      - brand
+    css: styles.css
+   
+
+
+

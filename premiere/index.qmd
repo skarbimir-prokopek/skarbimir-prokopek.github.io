@@ -1,0 +1,29 @@
+---
+title: "Première"
+subtitle: Cours et ressources pour la Première générale en tronc commun
+page-layout: article
+anchor-sections: false
+search: false
+sidebar: premiere
+---
+
+::: {#premiere-links .column-screen-inset-right style="max-width: 850px;"}
+
+## Histoire
+
+### Thème 1: L'Europe face aux révolutions
+
+#### La Révolution française et l'Empire: une nouvelle conception de la Nation
+
+[La Révolution française (I): de l'Assemblée à la Nation](revolution/revolution1.qmd)
+
+### Thème 2: La France dans l'Europe des nationalités: politique et société (1848-1871)
+
+[De la Révolution de février au Second empire (1848-1870)](quarante-huit/quarante_huit.qmd)
+
+[Économie et société de la France sous le Second empire](eco_soc_2empire/eco_soc_2empire.qmd)
+
+## Géographie
+
+## EMC
+:::

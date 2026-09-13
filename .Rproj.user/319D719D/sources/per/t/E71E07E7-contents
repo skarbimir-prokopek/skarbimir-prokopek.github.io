@@ -1,0 +1,13 @@
+- title: Histoire
+  subtitle: Programme d'histoire en Seconde
+  links: 
+    - text: Mesurer et découper le temps: la périodisation en histoire
+      href: periodisation/periodisation.qmd
+
+- title: Géographie
+  subtitle: Programme de géographie en Seconde
+  links: []
+  
+- title: EMC
+  subtitle: Programme d'EMC en Seconde
+  links: []

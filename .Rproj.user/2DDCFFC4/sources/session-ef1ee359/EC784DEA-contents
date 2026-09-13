@@ -1,0 +1,14 @@
+---
+title: "Périodisation - Activité 3"
+subtitle: "Situer et analyser un document"
+format: 
+  pdf:
+    keep-tex: true
+header-includes:
+  - \usepackage{tikz}
+  - \usetikzlibrary{decorations.markings}
+  - \pagestyle{empty}
+---
+
+Voici un document que nous allons étudier dans le premier chapitre d'histoire. 
+

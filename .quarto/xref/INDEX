@@ -1,0 +1,49 @@
+{
+  "index.qmd": {
+    "index.html": "b49f441d"
+  },
+  "about.qmd": {
+    "about.html": "db974947"
+  },
+  "blog.qmd": {
+    "blog.html": "f7a0496a"
+  },
+  "premiere/quarante-huit/index.qmd": {
+    "index.html": "708810ba",
+    "index.tex": "195fd76b"
+  },
+  "premiere/eco_soc_2empire/index.qmd": {
+    "index.html": "f5083e7d",
+    "index.tex": "159a18c0"
+  },
+  "premiere/index.qmd": {
+    "index.html": "42e2a3b6"
+  },
+  "premiere/quarante-huit/quarante_huit.qmd": {
+    "quarante_huit.html": "1d014ec6",
+    "quarante_huit.tex": "e03be51c"
+  },
+  "premiere/eco_soc_2empire/eco_soc_2empire.qmd": {
+    "eco_soc_2empire.html": "b05130ad",
+    "eco_soc_2empire.tex": "b603633a"
+  },
+  "seconde/periodisation.qmd": {
+    "periodisation.html": "0add4a78",
+    "periodisation.tex": "d363c98c"
+  },
+  "seconde/index.qmd": {
+    "index.html": "7bb0d94b"
+  },
+  "seconde/periodisation/periodisation.qmd": {
+    "periodisation.html": "6b8dd9e1",
+    "periodisation.tex": "33bf139e"
+  },
+  "premiere/revolution/revolution1.qmd": {
+    "revolution1.html": "00147fd9",
+    "revolution1.tex": "abb70e0b"
+  },
+  "premiere/revolution/revolution1_presentation.qmd": {
+    "revolution1_presentation.html": "a652a5e4",
+    "revolution1_presentation.tex": "08748fab"
+  }
+}

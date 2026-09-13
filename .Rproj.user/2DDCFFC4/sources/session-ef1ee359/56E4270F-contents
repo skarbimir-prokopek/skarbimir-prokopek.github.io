@@ -1,0 +1,29 @@
+---
+title: "Sesquiplan"
+lang: fr
+image: avatar1.jpg
+about:
+  template: trestles
+  links:
+    - text: Academia
+      url: "https://univ-paris1.academia.edu/SkarbimirProkopek"
+    - text: CV
+      url: "CV_SkarbimirProkopek_2026_1.pdf"
+    - text: Email
+      url: "mailto:skarbimir.prokopek@proton.me"
+comments: false
+---
+
+:::{column-page}
+
+## Bio
+
+#### Skarbimir Prokopek
+
+Historien médiéviste, spécialiste de l'histoire économique et sociale de l'Italie du Moyen Âge central. En 2021, j'ai soutenu à l'Université Paris 1 une thèse *Ubi morantur campsores. Le maniement de l'argent à Gênes, XII^e^-XIII^e^ siècle*. Je reste depuis chercheur associé du LaMOP.
+Agrégé d'histoire, j'enseigne depuis 2019 dans l'enseignement secondaire. Après sept ans dans l'académie de Versailles, j'ai été nommé à la rentrée 2026 
+au Lycée Molière à Paris.
+
+Ce site est destiné d'abord à accompagner les cours de lycée.
+
+:::

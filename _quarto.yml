@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - CV_SkarbimirProkopek_2026_1.pdf
+    - "*.pdf"
+    - avatar1.jpg
+  
+website:
+  title: "Sesquiplan"
+  description: "Site pédagogique et personnel de Skarbimir Prokopek"
+  open-graph:
+    locale: fr
+    
+  navbar:
+    right:
+      - href: index.qmd
+        text: Accueil
+      - href: seconde/index.qmd
+        text: "Seconde"
+      - href: premiere/index.qmd
+        text: "Première"
+      - href: hgssp/index.qmd
+        text: "HGSSP"
+      - href: blog.qmd
+        text: "Blog"
+        
+  sidebar: 
+    - id: seconde
+      title: "Seconde"
+      style: "docked"
+      collapse-level:  2
+      contents:
+        - section: "Histoire 2^e^"
+          contents: 
+          - text: Périodisation
+            href: seconde/periodisation/periodisation.qmd
+          
+    
+    - id: premiere
+      title: "Première"
+      style: "docked"
+      contents: 
+        - section: "Histoire 1^ère^"
+          contents: 
+            - text: "La Révolution française (I): de l'Assemblée à la Nation"
+              href: premiere/revolution/revolution1.qmd
+            - text: "De la Révolution de février au Second empire (1848-1870)"
+              href: premiere/quarante-huit/quarante_huit.qmd
+            - text: "Économie et société de la France sous le Second empire"
+              href: premiere/eco_soc_2empire/eco_soc_2empire.qmd
+    
+    - id: hgssp
+      title: "HGSSP"
+      style: "docked"
+      contents: 
+        - section: "HGSSP"
+          contents:
+          - text: "Cours de spécialité HGSSP en Première générale"
+            href: hgssp/index.qmd
+
+format:
+  html:
+    theme:
+      - sandstone
+      - brand
+    css: styles.css
+   
+
+
+
