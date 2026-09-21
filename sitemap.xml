@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://skarbimir-prokopek.github.io/seconde/periodisation/periodisation.html</loc>
+    <lastmod>2026-09-13T20:22:07.646Z</lastmod>
+  </url>
+  <url>
     <loc>https://skarbimir-prokopek.github.io/premiere/index.html</loc>
     <lastmod>2026-09-15T13:32:57.950Z</lastmod>
   </url>
   <url>
-    <loc>https://skarbimir-prokopek.github.io/premiere/revolution/revolution1.html</loc>
-    <lastmod>2026-09-13T20:22:07.643Z</lastmod>
+    <loc>https://skarbimir-prokopek.github.io/premiere/revolution/revolution1_presentation.html</loc>
+    <lastmod>2026-09-13T20:22:07.644Z</lastmod>
   </url>
   <url>
-    <loc>https://skarbimir-prokopek.github.io/premiere/eco_soc_2empire/eco_soc_2empire.html</loc>
-    <lastmod>2026-09-13T20:22:07.571Z</lastmod>
-  </url>
-  <url>
-    <loc>https://skarbimir-prokopek.github.io/seconde/index.html</loc>
-    <lastmod>2026-09-13T20:22:07.646Z</lastmod>
-  </url>
-  <url>
-    <loc>https://skarbimir-prokopek.github.io/blog.html</loc>
-    <lastmod>2026-09-13T20:22:07.568Z</lastmod>
+    <loc>https://skarbimir-prokopek.github.io/premiere/quarante-huit/quarante_huit.html</loc>
+    <lastmod>2026-09-13T20:22:07.610Z</lastmod>
   </url>
   <url>
     <loc>https://skarbimir-prokopek.github.io/index.html</loc>
@@ -29,19 +25,23 @@
     <lastmod>2026-09-13T20:22:07.567Z</lastmod>
   </url>
   <url>
-    <loc>https://skarbimir-prokopek.github.io/seconde/periodisation/periodisation.html</loc>
-    <lastmod>2026-09-13T20:22:07.646Z</lastmod>
+    <loc>https://skarbimir-prokopek.github.io/blog.html</loc>
+    <lastmod>2026-09-13T20:22:07.568Z</lastmod>
   </url>
   <url>
-    <loc>https://skarbimir-prokopek.github.io/premiere/quarante-huit/quarante_huit.html</loc>
-    <lastmod>2026-09-13T20:22:07.610Z</lastmod>
+    <loc>https://skarbimir-prokopek.github.io/premiere/eco_soc_2empire/eco_soc_2empire.html</loc>
+    <lastmod>2026-09-13T20:22:07.571Z</lastmod>
   </url>
   <url>
-    <loc>https://skarbimir-prokopek.github.io/premiere/revolution/revolution1_presentation.html</loc>
-    <lastmod>2026-09-13T20:22:07.644Z</lastmod>
+    <loc>https://skarbimir-prokopek.github.io/premiere/revolution/revolution1.html</loc>
+    <lastmod>2026-09-13T20:22:07.643Z</lastmod>
   </url>
   <url>
     <loc>https://skarbimir-prokopek.github.io/premiere/revolution/revolution2.html</loc>
-    <lastmod>2026-09-21T00:07:14.342Z</lastmod>
+    <lastmod>2026-09-21T21:55:13.037Z</lastmod>
+  </url>
+  <url>
+    <loc>https://skarbimir-prokopek.github.io/seconde/index.html</loc>
+    <lastmod>2026-09-13T20:22:07.646Z</lastmod>
   </url>
 </urlset>
