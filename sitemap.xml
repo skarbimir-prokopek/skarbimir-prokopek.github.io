@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://skarbimir-prokopek.github.io/hggsp/democratie/democratie_directe_representative.html</loc>
+    <lastmod>2026-10-11T21:28:21.982Z</lastmod>
+  </url>
+  <url>
     <loc>https://skarbimir-prokopek.github.io/seconde/periodisation/periodisation.html</loc>
     <lastmod>2026-09-13T20:22:07.646Z</lastmod>
   </url>
@@ -34,14 +38,18 @@
   </url>
   <url>
     <loc>https://skarbimir-prokopek.github.io/premiere/revolution/revolution1.html</loc>
-    <lastmod>2026-09-13T20:22:07.643Z</lastmod>
+    <lastmod>2026-10-11T19:28:43.577Z</lastmod>
   </url>
   <url>
     <loc>https://skarbimir-prokopek.github.io/premiere/revolution/revolution2.html</loc>
-    <lastmod>2026-09-21T21:55:13.037Z</lastmod>
+    <lastmod>2026-10-11T18:54:09.662Z</lastmod>
   </url>
   <url>
     <loc>https://skarbimir-prokopek.github.io/seconde/index.html</loc>
     <lastmod>2026-09-13T20:22:07.646Z</lastmod>
+  </url>
+  <url>
+    <loc>https://skarbimir-prokopek.github.io/hggsp/index.html</loc>
+    <lastmod>2026-09-27T13:29:31.610Z</lastmod>
   </url>
 </urlset>
