@@ -81,9 +81,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -133,6 +133,7 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Sesquiplan Blog – Sesquiplan">
+<meta property="og:image" content="https://skarbimir-prokopek.github.io/posts/2026-11-15_democratie_regime_fragile/kleroterion.jpg">
 <meta property="og:site_name" content="Sesquiplan">
 <meta property="og:locale" content="fr">
 </head>
@@ -189,7 +190,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tous <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Catégories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tous <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29ycmlnJUMzJUE5cw==">corrigés <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZCVDMyVBOW1vY3JhdGll">démocratie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SEdTU1A=">HGSSP <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content page-columns page-full column-body" id="quarto-document-content">
 
@@ -227,7 +228,40 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="SEdTU1AlMkNkJUMzJUE5bW9jcmF0aWUlMkNjb3JyaWclQzMlQTlz" data-listing-date-sort="1794697200000" data-listing-file-modified-sort="1794784060941" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="20" data-listing-word-count-sort="3892">
+<div class="thumbnail"><a href="./posts/2026-11-15_democratie_regime_fragile/index.html" class="no-external">
 
+<img loading="lazy" src="./posts/2026-11-15_democratie_regime_fragile/kleroterion.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/2026-11-15_democratie_regime_fragile/index.html" class="no-external">La démocratie est-elle un régime fragile?</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('SEdTU1A='); return false;">HGSSP</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('ZCVDMyVBOW1vY3JhdGll'); return false;">démocratie</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29ycmlnJUMzJUE5cw=='); return false;">corrigés</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/2026-11-15_democratie_regime_fragile/index.html" class="no-external">
+<p>Corrigé libre</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/2026-11-15_democratie_regime_fragile/index.html" class="no-external">
+<div class="listing-date">
+15 nov. 2026
+</div>
+<div class="listing-author">
+Skarbimir Prokopek
+</div>
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">Aucun article correspondant</div>
 </div></main> <!-- /main -->
